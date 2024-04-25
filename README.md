@@ -18,7 +18,7 @@ Meu portfólio consiste em duas páginas principais: a página inicial (home) e 
 
 ## Acesso
 
-Você pode acessar meu portfólio [clicando aqui](https://portifolio-vptp.vercel.app/).
+Você pode acessar meu portfólio [clicando aqui](https://deboranortes.github.io/portifolio/).
 
 ## Linguagens e Tecnologias Utilizadas
 
