@@ -18,7 +18,7 @@ Meu portfólio consiste em duas páginas principais: a página inicial (home) e 
 
 ## Acesso
 
-Você pode acessar meu portfólio [clicando aqui](https://deboranortes.github.io/portifolio/).
+Você pode acessar meu portfólio [clicando aqui]().
 
 ## Linguagens e Tecnologias Utilizadas
 
